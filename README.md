@@ -40,3 +40,7 @@ Rainfall_Data.csv – State-wise rainfall records
 Rainfall_vs_Crops_1997_2015.ipynb – Jupyter notebook with code and visualizations
 
 README.md – Project documentation
+
+📌 Conclusion
+
+Understanding the rainfall-crop relationship is vital for improving agricultural planning and risk mitigation strategies. This analysis provides a foundation for data-driven agricultural policies and better climate adaptation techniques.
